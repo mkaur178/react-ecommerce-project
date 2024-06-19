@@ -1,0 +1,25 @@
+{
+  "student": [
+    {
+      "id": "eb34",
+      "empno": "233",
+      "name": "fgdf",
+      "department": "regd",
+      "salary": "s34"
+    },
+    {
+      "id": "5b21",
+      "empno": "423",
+      "name": "fdr",
+      "department": "fsfd",
+      "salary": "534"
+    },
+    {
+      "id": "ed0f",
+      "empno": "4576",
+      "name": "mnhwsh",
+      "department": "jflekj",
+      "salary": "fjkj"
+    }
+  ]
+}
